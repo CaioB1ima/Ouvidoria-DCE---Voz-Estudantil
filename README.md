@@ -2,8 +2,8 @@
 
 Sistema de ouvidoria para o Diretório Central dos Estudantes (DCE), desenvolvido como projeto final da disciplina de Programação Web.
 
-#LINKS: https://ouvidoriadce.manus.space/login
-#LINKS: https://ouvidoriadce.manus.space/manifestacao
+#LOGIN https://ouvidoriadce.manus.space/login
+#MANIFESTAÇÕES DCE https://ouvidoriadce.manus.space/manifestacao
 
 HOSPEDADO PELA MANUS
 

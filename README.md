@@ -2,6 +2,11 @@
 
 Sistema de ouvidoria para o Diretório Central dos Estudantes (DCE), desenvolvido como projeto final da disciplina de Programação Web.
 
+#LINKS: https://ouvidoriadce.manus.space/login
+#LINKS: https://ouvidoriadce.manus.space/manifestacao
+
+HOSPEDADO PELA MANUS
+
 ## Visão Geral
 
 A **Ouvidoria DCE** é uma plataforma digital que permite aos estudantes registrar manifestações, sugestões, reclamações e elogios de forma segura e transparente. O sistema oferece um canal direto de comunicação entre os estudantes e a administração do DCE, garantindo que todas as vozes sejam ouvidas.

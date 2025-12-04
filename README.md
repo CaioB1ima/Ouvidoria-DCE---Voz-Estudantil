@@ -102,9 +102,7 @@ Este projeto é fornecido como-é para fins educacionais.
 
 ## Autores
 
-Caio Barbosa         Mateus onival
-alberto              lucas Almeida
-Davi vaz             Arthur
+Caio Barbosa, alberto, Mateus onival, alberto, lucas Almeida, Davi vaz e Arthur
 
 
 

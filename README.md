@@ -88,31 +88,6 @@ A **Ouvidoria DCE** é uma plataforma digital que permite aos estudantes registr
 - Manus OAuth (autenticação segura)
 - JWT (sessões)
 
-## Estrutura do Projeto
-
-
-dce-ouvidoria/
-├── client/                                       # Frontend React
-│   ├── src/
-│   │   ├── pages/                                # Páginas da aplicação
-│   │   ├── components/                           # Componentes reutilizáveis
-│   │   ├── App.tsx                               # Roteamento principal
-│   │   └── index.css                             # Estilos globais
-│   └── public/                                   # Arquivos estáticos
-├── server/                                       # Backend Node.js
-│   ├── routers.ts                                # Procedimentos tRPC
-│   ├── db.ts                                     # Queries do banco de dados
-│   └── _core/                                    # Configuração interna
-├── drizzle/                                      # Schema do banco de dados
-└── package.json                                  # Dependências do projeto
-
-
-## Instalação e Configuração
-
-### Pré-requisitos
-- Node.js 22+
-- pnpm (gerenciador de pacotes)
-- Banco de dados MySQL/TiDB
 
 
 

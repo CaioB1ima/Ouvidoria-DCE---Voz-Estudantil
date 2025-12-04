@@ -22,12 +22,12 @@ A **Ouvidoria DCE** é uma plataforma digital que permite aos estudantes registr
 
 ## Tipos de Manifestação
 
-1. **Sobre eventos:** Feedback e sugestões sobre eventos do DCE
-2. **Informações:** Dúvidas e pedidos de informações
-3. **Consultoria jurídica:** Questões legais e direitos estudantis
-4. **Reclamações:** Problemas e insatisfações
-5. **Sugestões:** Ideias para melhorias
-6. **Trabalhe conosco:** Interesse em participar do DCE
+• **Sobre eventos:** Feedback e sugestões sobre eventos do DCE
+• **Informações:** Dúvidas e pedidos de informações
+• **Consultoria jurídica:** Questões legais e direitos estudantis
+• **Reclamações:** Problemas e insatisfações
+• **Sugestões:** Ideias para melhorias
+• **Trabalhe conosco:** Interesse em participar do DCE
 
 
 
@@ -36,7 +36,7 @@ A **Ouvidoria DCE** é uma plataforma digital que permite aos estudantes registr
 ### Para Estudantes
 
 
-1. **Registrar Manifestação:**
+• **Registrar Manifestação:**
    - Navegue até "Registrar Manifestação"
    - Selecione o tipo de manifestação
    - Preencha o título e descrição
@@ -44,18 +44,17 @@ A **Ouvidoria DCE** é uma plataforma digital que permite aos estudantes registr
    - Clique em "Registrar Manifestação"
    - Você receberá um número de protocolo
 
-2. **Acompanhar Processo:**
+• **Acompanhar Processo:**
    - Vá para "Acompanhar Processo"
    - Digite o número do protocolo
    - Visualize o status e atualizações
 
 ### Para Administradores
 
-3. **Acessar Painel Admin:**
+• **Acessar Painel Admin:**
    - Apenas usuários com role "admin" têm acesso
    - Clique em "Painel Admin" na navegação lateral
-
-4. **Gerenciar Manifestações:**
+• **Gerenciar Manifestações:**
    - Selecione uma manifestação da lista
    - Visualize os detalhes completos
    - Atualize o status conforme necessário

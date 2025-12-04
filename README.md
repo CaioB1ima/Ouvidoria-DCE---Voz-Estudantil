@@ -104,9 +104,10 @@ Este projeto é fornecido como-é para fins educacionais.
 
 Caio Barbosa, alberto, Mateus onival, alberto, lucas Almeida, Davi vaz e Arthur
 
+## VIDEO DE APRENSENTAÇÃO E TUTORIAL DE INSTALAÇÃO
+https://drive.google.com/drive/u/0/folders/1yGjvWTwRv1lpUTIlZRBW8iQEaoEG13Fy
+
 
 
 ---
 
-**Versão:** 1.0.0  
-**Última atualização:** Novembro de 2025
